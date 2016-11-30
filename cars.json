@@ -25,7 +25,7 @@
             "rating" : 2
         }],
         "wiki" : "http://en.wikipedia.org/wiki/Porsche_997",
-            "video" : '<iframe width="560" height="315" src="https://www.youtube.com/embed/wx_YYgq0rvE" frameborder="0" allowfullscreen></iframe>'
+            "video" : "<iframe width='560' height='315' src='https://www.youtube.com/embed/wx_YYgq0rvE' frameborder='0' allowfullscreen></iframe>"
     },{ 
         "img" : "250px-Nissan_GT-R.jpg",
         "manufacturer" : "Nissan",
